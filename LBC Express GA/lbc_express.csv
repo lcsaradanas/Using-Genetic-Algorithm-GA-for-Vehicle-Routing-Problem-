@@ -1,0 +1,6 @@
+ID,Vehicle,Max_Weight_kg,No_of_Parcel,Total_Weight_kg,Route,Distance_km,Travel_Time_min,Over_Capacity,Late_Delivery
+L1,Truck,150,15,110,Pasay -> QC -> Makati,26,60,0,1
+L2,Van,90,8,81,Mandaluyong -> Manila,17,35,0,0
+L3,Van,90,10,99,Taguig -> Makati -> Pasig -> Manila,18,50,1,1
+L4,Truck,150,19,135,San Juan -> QC -> Pasig -> Makati,32,65,0,1
+L5,Van,90,12,101,Makati -> Pasay -> Taguig,21,48,1,1
