@@ -1,0 +1,6 @@
+ID,Vehicle,Capacity,No_of_Parcel,Route,Total_Distance,On_Time_Drops,Missed_Delayed
+J1,Van,20,18,QC->Pasig->Mandaluyong,15,7,1 (traffic)
+J2,Motorcycle,8,9,Makati->Taguig,7,8,1 (over limit)
+J3,Van,20,16,Manila->San Juan->QC,13,16,0
+J4,Motorcycle,8,7,Pasig -> Mandaluyong,6,7,0
+J5,Van,20,19,QC -> Manila -> Pasig -> Makati,17,18,1 (client not home)
